@@ -20,7 +20,7 @@
 
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/tu-usuario/yt-url-extractor.git
+git clone https://github.com/SalasJean/yt-url-extractor.git
 cd yt-url-extractor
 
 # 2. Crear y activar entorno virtual
